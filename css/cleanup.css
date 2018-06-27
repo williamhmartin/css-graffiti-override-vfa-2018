@@ -1,10 +1,10 @@
-#wall .tag-1{
+#wall div .tag-1{
   display: none;
 }
 #wall div {
 display: none;
 }
-div #tag-2 #wall{
+#wall div #tag-2 {
 display: none;
 }
 div #tag-3.slick #wall{
