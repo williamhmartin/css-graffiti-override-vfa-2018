@@ -1,5 +1,7 @@
 #wall .tag-1{
   display: none;
 }
-#class
+#parent +  {
+  display: none;
+}
 
