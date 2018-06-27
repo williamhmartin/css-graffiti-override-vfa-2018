@@ -7,3 +7,6 @@ display: none;
 body #tag-2 #wall{
 display: none;
 }
+body #tag-3 #wall .slick{
+display: none;
+}
