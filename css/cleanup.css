@@ -4,9 +4,9 @@
 #wall div {
 display: none;
 }
-body #tag-2 #wall{
+div #tag-2 #wall{
 display: none;
 }
-body #tag-3 #wall .slick{
+div #tag-3.slick #wall{
 display: none;
 }
