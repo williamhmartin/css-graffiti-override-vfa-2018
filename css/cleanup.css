@@ -1,7 +1,7 @@
 #wall .tag-1{
   display: none;
 }
-#parent +  {
+#parent + img {
   display: none;
 }
 
